@@ -1,31 +1,30 @@
 {
   "name": {
     "CN": {
-      "title": "语音按钮",
-      "fullName": ""
+      "title": "Alarm按钮",
+      "fullName": "Kim'Alarm'KeyongBo"
     },
     "EN": {
-      "title": "Voives Button",
-      "fullName": ""
+      "title": "Alarm Button",
+      "fullName": "Kim'Alarm'KeyongBo"
     }
   },
   "readme": "",
   "header": {
-    "icon": "🍣",
-    "youtube": "",
+    "icon": "💪",
     "twitter": "",
     "bilibili": ""
   },
   "link": [
     {
-      "name": "Hiiro按钮",
-      "url": "https: //hiiro.club/",
-      "background": "#F5C1BB"
+      "name": "",
+      "url": "",
+      "background": ""
     },
     {
-      "name": "七奈按钮",
-      "url": "https: //kaguranana.moe/",
-      "background": "#c4afd0"
+      "name": "",
+      "url": "/",
+      "background": ""
     }
   ],
   "footer": {
@@ -33,10 +32,13 @@
       {
         "name": "Blacktunes",
         "url": "https://github.com/blacktunes"
+      },
+      {
+        "name": "Ritsuki"
       }
     ],
     "info": [
-      ""
+      "个人需求搞着玩的"
     ],
     "githubUrl": "https://github.com/blacktunes/voices-button"
   },
